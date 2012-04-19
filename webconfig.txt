@@ -1,3 +1,5 @@
 first change to webconfig 
 
 direct edit from github.com
+
+fixed bug 33 - added some debug
